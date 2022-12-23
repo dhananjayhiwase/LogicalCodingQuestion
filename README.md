@@ -9,7 +9,6 @@ Example is if number is 3 then pyramid looks like.
 
 ...1
 
-please ignore "." instead of dot we reqiure space
-file
-pyramid.py contains solution
+please ignore "." instead of dot we reqiure space.
+file pyramid.py contains solution
 
